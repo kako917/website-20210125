@@ -1,0 +1,52 @@
+body{
+  background-image: url(gakufukabe.jpg);
+  background-size: cover;
+}
+
+table{
+  margin: auto;
+  width: 80%;
+}
+
+h1{
+  text-align: center;
+  letter-spacing: 30px;
+  margin: 100px 0;
+  color: #413E4A;
+  text-shadow: 4px 4px #B38184;
+}
+
+hr{
+  width: 80%;
+  border: 2px solid;
+  color: #413E4A;
+}
+
+h2{
+  color: #73626E;
+  margin-left: 150px;
+  margin-top: 50px;
+}
+
+h3{
+  color:#B38184;
+  border-bottom: 3px solid;
+  width: 70%;
+}
+
+img{
+  margin-top: 80px;
+  margin-right: 100px;
+}
+
+a{
+  float: right;
+  position: relative;
+  right: 100px;
+  bottom: 80px;
+}
+
+.pi_sen{
+  color: #F0B49E;
+  font-size: 20px;
+}

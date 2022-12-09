@@ -1,0 +1,90 @@
+body{
+  background-image: url(kabe.jpg);
+  color:#5E412F
+}
+
+h1{
+  letter-spacing: 30px;
+  text-align: center;
+  margin-top: 80px;
+}
+
+.kureyon{
+    color: #D00000;
+}
+
+.kureyon2{
+  color: #D00000;
+}
+
+h2{
+  color: #D00000;
+}
+
+
+a{
+  float: right;
+  position: relative;
+  bottom: 50px;
+  right: 100px;
+}
+
+img{
+  position: relative;
+  bottom: 140px;
+  left: 30px;
+}
+
+ul{
+  position: relative;
+  bottom: 100px;
+  list-style: none;
+  text-align: center;
+}
+
+
+.mokuzi{
+  font-size: 20px;
+  color: #D00000;
+  text-decoration: underline;
+  te
+}
+
+.toplist{
+ margin: 2em auto;
+ padding: 1em 1.5em;
+ width: 30%;
+ border: 4px solid #f6bfbc;
+ border-radius: 3em .8em 3em .7em/.9em 2em .8em 3em;
+ position: relative;
+ bottom: 70px;
+}
+
+.osusume{
+  margin-left: 100px;
+  position: relative;
+  bottom: 100px;
+}
+
+.osusumeImage{
+  display: block;
+  float: right;
+  position: relative;
+  top:300px;
+  right: 100px;
+}
+
+.bakudan{
+  display: block;
+  position: relative;
+  bottom: 500px;
+  right: 700px;
+}
+
+.tablemame{
+  margin-left: 120px;
+}
+
+td{
+  width:40%;
+}

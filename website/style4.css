@@ -1,0 +1,72 @@
+table{
+    margin-left: 100px;
+}
+
+body{
+  background-color: #FFFFDC;
+}
+
+.table1{
+  background-image: url(karage.jpg);
+  background-size: cover;
+}
+
+td{
+  height: 400px;
+  width: 40%;
+}
+
+.table2{
+    background-image: url(okiya.jpeg);
+    background-size: cover;
+}
+
+.table3{
+     background-image: url(okobo.jpg);
+     background-size: cover;
+}
+
+.table4{
+     background-image: url(odori.jpg);
+     background-size: cover;
+}
+
+.tdcont{
+  margin-left: 50px;
+}
+
+h1{
+  text-align: center;
+  letter-spacing: 30px;
+  margin: 100px 0;
+  color: #450B1E;
+
+}
+
+a{
+  float: right;
+  position: relative;
+  right: 100px;
+  bottom: 80px;
+}
+
+.con1{
+  background-size: cover;
+  background-color: #A1C0AE;
+}
+
+.con2{
+  background-color:#F7D0A9;
+}
+.con3{
+  background-color:#D97F76;
+}
+.con4{
+  background-color: #B4585D;
+}
+
+h2{
+  color: #5C4152;
+  border-bottom: 3px solid;
+  width: 70%;
+}
